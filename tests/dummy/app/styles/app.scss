@@ -1,0 +1,19 @@
+@import 'ember-cli-tachyons-sass';
+
+body {
+  font-family: $sans-serif;
+}
+
+@media #{$breakpoint-not-small} {
+  .w-20rem-ns {
+    width: 20rem;
+  }
+}
+
+html,
+body,
+body > .ember-view {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}

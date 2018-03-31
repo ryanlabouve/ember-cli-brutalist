@@ -1,29 +1,35 @@
-ember-cli-tachyons-toolkit
-==============================================================================
+# ember-cli-brutalist
+
+> This is a brutal alpha. Use at your own risk.
 
 [Short description of the addon.]
 
-Installation
-------------------------------------------------------------------------------
+Resource:
+https://www.designbetter.co/design-systems-handbook/designing-design-system
+
+https://github.com/alexpate/awesome-design-systems
+https://www.lightningdesignsystem.com/guidelines/layout/
+https://tachyons.io/components/
+https://www.designbetter.co/design-systems-handbook
+https://polaris.shopify.com/visuals/colors
+https://polaris.shopify.com/components/forms/radio-button#navigation
+
+## Installation
 
 ```
-ember install ember-cli-tachyons-toolkit
+ember install ember-cli-brutalist
 ```
 
-
-Usage
-------------------------------------------------------------------------------
+## Usage
 
 [Longer description of how to use the addon in apps.]
 
-
-Contributing
-------------------------------------------------------------------------------
+## Contributing
 
 ### Installation
 
 * `git clone <repository-url>`
-* `cd ember-cli-tachyons-toolkit`
+* `cd ember-cli-brutalist
 * `npm install`
 
 ### Linting
@@ -44,7 +50,6 @@ Contributing
 
 For more information on using ember-cli, visit [https://ember-cli.com/](https://ember-cli.com/).
 
-License
-------------------------------------------------------------------------------
+## License
 
 This project is licensed under the [MIT License](LICENSE.md).
